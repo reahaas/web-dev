@@ -222,7 +222,7 @@ div{
     }
 
     .col-sm-12{
-        width: calc(100%);
+        width: calc(100% - 10px);
     }
 
 }
